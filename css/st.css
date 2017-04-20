@@ -1,0 +1,85 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.cont{
+	background: black;
+
+}
+.head{
+	   width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+       padding: 10px;
+
+}
+.lf{
+	    text-align: left;
+    width: 50%;
+    float: left;
+    color: #fff;
+
+}
+
+.rt{
+	width: 50%;
+    float: right;
+    text-align: right;
+    color: #fff;
+}
+.sec{
+	background-image: url(../img/bgp.jpg);
+	background-repeat: no-repeat;
+	    background-size: cover;
+}
+.mrg{
+	width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.bac{
+	display: inline-block;
+    margin-top:20px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 0;
+    
+
+}
+form{
+	    display: block;
+    margin-top: 0em;
+
+}
+center {
+    display: block;
+    text-align: -webkit-center;
+}
+
+.taka {
+    display: block;
+    height: 30px;
+    width: 140px;
+    text-align: center;
+    font-size: 15px;
+}
+.button {
+    display: block;
+    background-color: green;
+    border-radius: 2px;
+    width: 100px;
+    margin-top: 5px;
+    height: 30px;
+    margin-bottom: 150px;
+    font-size: 16px;
+}
+.trd mrg center p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
